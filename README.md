@@ -7,7 +7,7 @@ This project is a simple, minimal, and responsive personal resume webpage built 
 - **Responsive Layout**: Adapts to mobile and desktop views.
 - **Minimal Design**: Simple and clean design with a focus on content.
 - **Sectional Structure**: Organized into sections like About Me, Skills, Projects, and Contact.
-- **GitHub Project Links**: Includes links to GitHub repositories for hands-on projects like the **Weather Forecasting Dashboard** and **Movie Recommendation System**.
+- **GitHub Project Links**: Includes links to GitHub repositories for hands-on projects like the **Weather Forecasting Dashboard** and **Movie Recommendation System** and **LandingPage**
   
 ## **Technologies Used**
 - **HTML** for structure
